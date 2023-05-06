@@ -1,4 +1,4 @@
-# odin-recipes
+# my-recipes
 
 A recipe website
 
