@@ -2,10 +2,19 @@
   color: #198104; 
   text-align: center;
   font-family: "Didot", sans-serif;
-  background-color: #fa5252;
   font-size: 60px;
 }
 
 .profile {
   text-align: center;
+}
+
+.profile img {
+  width: 200px;
+  height: auto;
+}
+
+.profile,
+.title {
+  background-color: #fa5252;
 }
