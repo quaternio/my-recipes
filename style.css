@@ -1,3 +1,12 @@
+.banner {
+  padding: 20px;
+  margin: 20px;
+  border-style: double;
+  border-color: #198104;
+  border-width: 10px;
+  background-color: #fa5252;
+}
+
 .title {
   color: #198104; 
   text-align: center;
@@ -14,7 +23,32 @@
   height: auto;
 }
 
-.profile,
-.title {
+.spaghetti,
+.french-dip,
+.gb-muffins {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
   background-color: #fa5252;
+  border-style: outset;
+  border-color: #198104;
+  border-width: 5px;
+  font-size: 24px;
+  font-family: "Didot", sans-serif;
 }
+
+.spaghetti,
+.french-dip,
+.gb-muffins {
+  margin: auto 150px;
+  margin-bottom: 20px;
+}
+
+.spaghetti {
+  margin-top: 50px;
+}
+
+/* .gb-muffins {
+  margin-left: 300px;
+} */
+
